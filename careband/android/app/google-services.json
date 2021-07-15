@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853389786105",
+    "project_id": "careband-5792a",
+    "storage_bucket": "careband-5792a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853389786105:android:b4877aa34f645d211c9b28",
+        "android_client_info": {
+          "package_name": "com.example.careband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853389786105-ac9lcgksu9f04eb62i38q216msm0973e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQlneJs9tEir6Dd0WfVKsbk9Uet0yypNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853389786105-ac9lcgksu9f04eb62i38q216msm0973e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
